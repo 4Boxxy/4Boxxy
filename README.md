@@ -3,7 +3,10 @@
 
 ### Beginner developer
 
-- 🔭 I’m currently learning: Kotlin (Android development)
+- A diligent and purposeful person, I always try to improve my result.
+Know English well, at an average level and i plan to improve this result, and know how to "Google") 
+
+- 🔭 Сurrently learning: Kotlin (Android development)
 - ⚡ Plans to study: Java, Swift, Python. And other languages (To expand my worldview)
 - Plans to create: Handy apps with a new look that will inspire and be used regularly
 
