@@ -1,7 +1,7 @@
 ### Hello, I'm Boxxy =3
 
 ### Beginner developer
-- 🔭 I’m currently learning: https://raw.githubusercontent.com/github/explore/4479d2a2c854198cb00160f8593519c14dc3b905/topics/kotlin/kotlin.png Kotlin (Android development)
+- 🔭 I’m currently learning: ![image](https://user-images.githubusercontent.com/120246860/206843424-d31bf041-fc79-49f5-a0bb-830d5492727f.png) Kotlin (Android development)
 - 🔭 Plans to study: Java, Swift, Python and more (To expand my worldview)
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
