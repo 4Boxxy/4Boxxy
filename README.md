@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**4Boxxy/4Boxxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I`m Boxxy, begginner developer
 
 Here are some ideas to get you started:
 
